@@ -27,4 +27,4 @@ pkg install python -y
 pkg install python2 -y
 pkg install git -y
 pip install lolcat
-git clone 
+git clone https://github.com/Code-with-Rajan/Max-Drigon2.0.git
